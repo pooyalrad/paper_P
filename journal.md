@@ -7,3 +7,4 @@ We should also reference (Smith 2011).
 # the Result section
 This is a result and have figures.
 
+lots fo new figure were generated.
